@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: skin/admin/script/components/Media.js:22
+msgid "Choose a Logo Image"
+msgstr ""
+
+#: skin/admin/script/components/Media.js:24
+msgid "Choose Logo"
+msgstr ""
+
+#: skin/admin/script/components/Media.js:46
+msgid "Edit"
+msgstr ""
+
+#: skin/admin/script/components/Media.js:54
+msgid "Upload"
+msgstr ""
+
+#: skin/front/script/components/Logo.jsx:29
+msgid "Homepage Link"
+msgstr ""

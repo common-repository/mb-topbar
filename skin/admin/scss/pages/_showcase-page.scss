@@ -1,0 +1,15 @@
+$main-color: #0085BA;
+$color-bg: #333643;
+
+.color-picker-color {
+  width: 90px;
+  height: 40px;
+  border: 1px solid $main-color;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: $color-bg;
+}
+
+.topbar-color-bg {
+  background-color: $color-bg;
+}
